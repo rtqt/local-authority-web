@@ -1,0 +1,30 @@
+
+{
+  "development": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "issue_reporting_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": true
+  },
+  "test": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "issue_reporting_test_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL",
+    "dialect": "postgres",
+    "logging": false,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}

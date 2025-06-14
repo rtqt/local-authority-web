@@ -1,0 +1,58 @@
+
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "issues": "Issues",
+    "allIssues": "All Issues",
+    "urgentIssues": "Urgent Issues",
+    "settings": "Settings"
+  },
+  "header": {
+    "adminDashboard": "Admin Dashboard",
+    "admin": "Admin",
+    "profile": "Profile",
+    "signOut": "Sign out"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languagePreferences": "Language Preferences",
+    "selectLanguage": "Select your preferred language",
+    "saveChanges": "Save Changes",
+    "changesSaved": "Changes saved successfully!"
+  },
+  "issues": {
+    "status": "Status",
+    "priority": "Priority",
+    "category": "Category",
+    "updateIssue": "Update Issue",
+    "confirmUpdate": "Confirm Update",
+    "confirmUpdateMessage": "Are you sure you want to update this issue? This will change the status to \"{{status}}\" and priority to \"{{priority}}\".",
+    "cancel": "Cancel",
+    "issueManagement": "Issue Management",
+    "open": "Open",
+    "inProgress": "In Progress",
+    "resolved": "Resolved",
+    "closed": "Closed",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "critical": "Critical"
+  },
+  "languages": {
+    "english": "English",
+    "amharic": "Amharic"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signInToAccount": "Sign in to your account",
+    "email": "Email",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot your password?",
+    "signInButton": "Sign in",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "welcome": "Welcome back"
+  }
+}

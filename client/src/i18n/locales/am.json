@@ -1,0 +1,58 @@
+
+{
+  "nav": {
+    "dashboard": "ዳሽቦርድ",
+    "issues": "ጉዳዮች",
+    "allIssues": "ሁሉም ጉዳዮች",
+    "urgentIssues": "አስቸኳይ ጉዳዮች",
+    "settings": "ቅንብሮች"
+  },
+  "header": {
+    "adminDashboard": "የአስተዳዳሪ ዳሽቦርድ",
+    "admin": "አስተዳዳሪ",
+    "profile": "መገለጫ",
+    "signOut": "መውጣት"
+  },
+  "settings": {
+    "title": "ቅንብሮች",
+    "language": "ቋንቋ",
+    "languagePreferences": "የቋንቋ ምርጫዎች",
+    "selectLanguage": "የመረጡትን ቋንቋ ይምረጡ",
+    "saveChanges": "ለውጦችን አስቀምጥ",
+    "changesSaved": "ለውጦች በተሳካ ሁኔታ ተቀምጠዋል!"
+  },
+  "issues": {
+    "status": "ሁኔታ",
+    "priority": "ቅድሚያ",
+    "category": "ምድብ",
+    "updateIssue": "ጉዳይ ማዘመን",
+    "confirmUpdate": "ማዘመንን አረጋግጥ",
+    "confirmUpdateMessage": "እርግጠኛ ነዎት ይህንን ጉዳይ ማዘመን ይፈልጋሉ? ይህ ሁኔታውን ወደ \"{{status}}\" እና ቅድሚያን ወደ \"{{priority}}\" ይቀይራል።",
+    "cancel": "ተወው",
+    "issueManagement": "የጉዳይ አስተዳደር",
+    "open": "ተከፈተ",
+    "inProgress": "በሂደት ላይ",
+    "resolved": "ተፈትቷል",
+    "closed": "ተዘግቷል",
+    "low": "ዝቅተኛ",
+    "medium": "መካከለኛ",
+    "high": "ከፍተኛ",
+    "critical": "ወሳኝ"
+  },
+  "languages": {
+    "english": "እንግሊዝኛ",
+    "amharic": "አማርኛ"
+  },
+  "auth": {
+    "signIn": "መግባት",
+    "signInToAccount": "ወደ መለያዎ ይግቡ",
+    "email": "ኢሜይል",
+    "password": "የይለፍ ቃል",
+    "rememberMe": "አስታውሰኝ",
+    "forgotPassword": "የይለፍ ቃልዎን ረስተዋል?",
+    "signInButton": "ግባ",
+    "noAccount": "መለያ የለዎትም?",
+    "signUp": "ተመዝገብ",
+    "welcome": "እንኳን ደህና መጡ"
+  }
+}
